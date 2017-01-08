@@ -1,0 +1,2 @@
+# Spells
+Setup_spells
